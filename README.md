@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Charan Pulaparthi
 
-<!--
-**charan834/charan834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 RTL Design & Functional Verification Engineer (Aspiring)  
+📍 Hyderabad, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am passionate about Digital Design, RTL Development, and Functional Verification.  
+I enjoy designing hardware modules from scratch and verifying them using structured testbenches.
+
+Strong foundation in:
+- Digital Electronics
+- Computer Architecture
+- Combinational & Sequential Circuits
+- FSM Design
+
+---
+
+## 🛠 Technical Skills
+
+### 🔹 RTL Design
+- Verilog HDL
+- FSM Design (Mealy & Moore)
+- Sequence Detectors (1011, 1101)
+- Adders (Ripple Carry, Carry Lookahead)
+- Flip-Flops (D, T, JK)
+- Binary ↔ Gray Code Converter
+
+### 🔹 Verification
+- Testbench Writing
+- Case / Casex / Casez
+- Functional Simulation
+- Waveform Analysis
+
+### 🔹 Tools
+- ModelSim
+- Xilinx Vivado
+- GTKWave
+
+---
+
+## 📂 Featured Work
+
+✔ 32-bit Ripple Carry Adder  
+✔ 1011 Sequence Detector (FSM)  
+✔ Flip-Flop Collection in Verilog  
+✔ Digital Design Mini Projects  
+
+---
+
+## 🎯 Career Objective
+
+To work as an RTL Design / Verification Engineer in leading semiconductor companies and contribute to high-performance ASIC/FPGA development.
+
+---
+
+📫 Contact  
+📧 charanpulaparthi23@gmail.com  
+
+---
+
+⭐ *Design it correctly. Verify it completely.*
